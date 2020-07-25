@@ -8,5 +8,5 @@ Put any Linkvertise Link in the First TextBox, next press
 Click "Copy Link" if you want to copy the bypassed link.
 
 # Credits:
-#By demonboii#6942
+# By demonboii#6942
 
