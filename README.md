@@ -7,6 +7,9 @@ Put any Linkvertise Link in the First TextBox, next press
 "Bypass", then wait until a link pop-up at the second TextBox.
 Click "Copy Link" if you want to copy the bypassed link.
 
+# Program Showcase:
+http://prntscr.com/toaavz
+
 # Credits:
 # By demonboii#6942
 
